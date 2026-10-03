@@ -1,0 +1,29 @@
+Week1:
+getting to be familiar with organization and the people
+
+Week2:
+Basic Javascript involving arrays objects accessing them loops
+
+Week3:
+Some advanced javascript concepts execution order, priority , microtask and macrotask performance in browser etc.
+
+week 4:
+Learnt about react hooks, use effect usestate basics, other topics like prop drilling, use memo for cache,passing children as function
+
+Week 5:
+exploring ui libraries like material ui chakra ui and tailwind css along with reuseablilty and component making.
+
+Week 6:
+Learnt about Axios and fetch, using Tanstack learna bout caching requested data from api, a jsonplaceholder api was used to learn, learnt about caching and created a paginated table.
+
+week 7:
+Learn about global state management redux and zustand for state management.
+
+week 8: 
+Learnt about testing in next js using Jest and e2e testing using playwright.
+
+week9:
+Learnt about accessibiliyu fundamentals (A11y) lazy loading through dynamic in nextjs and lighthouse auditing to determine metrics of a page.
+
+week 10:
+Designing and developing website for a startup , developing landing page and components of landing page 
