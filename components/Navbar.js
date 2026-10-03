@@ -5,8 +5,8 @@ import { motion } from "motion/react";
 
 const links = [
   { href: "/", label: "Home" },
-  { href: "/story", label: "Our Story" },
-  { href: "/team", label: "Our Team" },
+  { href: "/ourstory", label: "Our Story" },
+  { href: "/ourteam", label: "Our Team" },
 ];
 
 export default function Navbar() {

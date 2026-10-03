@@ -1,6 +1,7 @@
 import { Anton, DM_Mono } from "next/font/google";
 import "./globals.css";
 import Navbar from "@/components/Navbar";
+import Footer from "@/components/footer";
 
 const anton = Anton({
   weight: "400",
@@ -20,7 +21,7 @@ export default function RootLayout({ children }) {
       <body className={`${anton.variable} ${mono.variable}`}>
         <Navbar />
         {children}
-
+        <Footer />  
       </body>
     </html>
   );
