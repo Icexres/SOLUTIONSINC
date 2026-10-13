@@ -35,7 +35,7 @@ export default function Navbar() {
 
       {/* CTA + mobile menu button */}
       <div className="flex items-center gap-3">
-        <Link href="#contact" className="bg-[#b7ff3c] px-4 py-2 font-anton text-[11px] uppercase text-black transition-transform hover:scale-105">
+        <Link href="/contact" className="bg-[#b7ff3c] px-4 py-2 font-anton text-[11px] uppercase text-black transition-transform hover:scale-105">
           Let&apos;s Talk
         </Link>
 
